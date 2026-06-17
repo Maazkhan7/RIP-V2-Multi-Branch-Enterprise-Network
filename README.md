@@ -1,4 +1,4 @@
-# 🌐 Cisco Lab: RIP V2 Multi-Branch Enterprise Network — Project 116
+# 🌐 Cisco Lab: RIP V2 Multi-Branch Enterprise Network
 
 > **Tools:** Cisco Packet Tracer · IOS 12.2 / 15.1 · RIP Version 2 · Router-on-a-Stick · 9 VLANs · DHCP Relay · SSH · Telnet · HTTP Server · Port Security (Sticky MAC)
 
